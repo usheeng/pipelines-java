@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/oisingallagher/Java_Pipeline/_apis/build/status/usheeng.pipelines-java?branchName=master)](https://dev.azure.com/oisingallagher/Java_Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
